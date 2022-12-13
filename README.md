@@ -25,7 +25,7 @@
   <p>Desenvolvido durante o curso SalesForce da SoulCode.</p>
 
   <p>
-  Agradecimento pela ajuda em configurar o GitHub e o Readme para Bruno Barros Miranda e Flavio Tobias.
+  Agradecimento pela ajuda em configurar o GitHub e o Readme para Bruno Barros Miranda, Flavio Tobias e Thiago Campello.
     
     
   </p>
