@@ -1,6 +1,6 @@
 <h1 align="center">
-   <a href="https://github.com/Andre-Benther/Soulcode/">
-	<img alt="Logo" src="Paginas/SoulCode.png" />
+   <a href="https://andre-benther.github.io/Soulcode/">
+	<img alt="Logo" src="Image/SoulCode.png" />
 	</a>
     <br>
 </h1>
@@ -70,4 +70,4 @@ $ cd HTML2
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[demo]: https://thiagocampello.github.io/Soulcode/
+[demo]: https://andre-benther.github.io/Soulcode/
